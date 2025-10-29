@@ -1,0 +1,2 @@
+class ScheduleIntent:
+    pass
